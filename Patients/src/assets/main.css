@@ -1,0 +1,11 @@
+.add-patient{
+    background:gray;
+}
+.edit-patient{
+    width: 100px;
+    background: gray;
+}
+.delete-patient{
+    width: 100px;
+    background: orange;
+}
